@@ -1,9 +1,9 @@
 
-@import './container.css';
-@import './card.css';
 @import './header.css';
 @import './skeleton.css';
 @import './skeleton-card.css';
+@import './card.css';
+@import './container.css';
 
 :root {
   --black: #000000; 
